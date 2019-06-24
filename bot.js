@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`Crezma , System`,"http://twitch.tv/Death Shop")
+client.user.setGame(`Prefix = [*]`,"Iam in The Best Minecraft Server :D")
 client.user.setStatus("dnd")
 });
 
